@@ -6,7 +6,7 @@
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/) 
 
 ![Gutierrez GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXANDREGUTI&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXANDREGUTI)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ## Tecnologias que eu uso no meu dia a dia
 
