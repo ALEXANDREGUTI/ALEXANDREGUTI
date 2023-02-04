@@ -6,9 +6,12 @@
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/) 
 
 ![Gutierrez GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXANDREGUTI&show_icons=true&theme=merko)
+
+
  
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu uso no meu dia a dia ![77caa32884d735d439ade45ba37feaf2](https://user-images.githubusercontent.com/101948387/216771391-4622fc10-3bbe-4b80-b06a-6dafd01933be.gif)
+
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
