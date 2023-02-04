@@ -6,6 +6,7 @@
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/) 
 
 ![Gutierrez GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXANDREGUTI&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXANDREGUTI)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -17,7 +18,7 @@
 
 Transformando desafios em novos conhecimentos e assim a cada dia vou descobrindo este universo fantástico do Desenvolvimento Web Frontend onde posso expressar minha criatividade e minha identidade visual .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXANDREGUTI)](https://github.com/anuraghazra/github-readme-stats)
 
 ![coca-cola](https://user-images.githubusercontent.com/101948387/216770168-7cff4282-48e2-4cad-a227-8390809668eb.gif)
 
