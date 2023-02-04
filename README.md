@@ -16,3 +16,5 @@
 </div><br/>
 
 Transformando desafios em novos conhecimentos e assim a cada dia vou descobrindo este universo fantástico do Desenvolvimento Web Frontend onde posso expressar minha criatividade e minha identidade visual .
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
