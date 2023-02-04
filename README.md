@@ -20,5 +20,6 @@ Transformando desafios em novos conhecimentos e assim a cada dia vou descobrindo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github.com/kelvincharlesdev/projeto-coca-cola/blob/main/src/design/coca-cola.gif
+
  
+![coca-cola](https://user-images.githubusercontent.com/101948387/216770168-7cff4282-48e2-4cad-a227-8390809668eb.gif)
